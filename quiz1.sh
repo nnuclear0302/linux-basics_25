@@ -1,2 +1,2 @@
-test
-
+#!/bin/sh
+ls
