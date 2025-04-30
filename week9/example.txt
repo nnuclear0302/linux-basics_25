@@ -1,0 +1,3 @@
+my first vi editing!
+my first vi editing!
+This is a new line.
